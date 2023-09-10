@@ -8,7 +8,7 @@ import (
 	connect "connectrpc.com/connect"
 	context "context"
 	errors "errors"
-	hello "my-grpc-proto/generated/hello"
+	hello "github.com/shyamchandranmec/my-grpc-proto/generated/hello"
 	http "net/http"
 	strings "strings"
 )
